@@ -158,7 +158,7 @@ const OrderDelivery = () => {
               : []
           }
           strokeColor="#3FC060"
-          apikey={process.env.MAP_API_KEY}
+          apikey={ "AIzaSyDw7ghdAAuXvukSBSqpc3WrdxGFhmhcfP4"}
           onReady={(result) => {
             setIsDriverClose(result.distance <= 0.1);
             setTotalMinutes(result.duration);
