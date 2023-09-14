@@ -5,15 +5,15 @@
     "status": "NEW",
     "createdAt": "2022-04-16T18:56:21.890Z",
     "updatedAt": "2022-04-16T18:56:21.890Z",
-    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "orderDustbinId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
     "Dustbin": {
       "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
-      "name": "El Cabo Coffe Bar Tres De Mayo",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+      "name": "ekounou",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fgarbage-sorting-ecological-problems-concept-colorful-trash-bin-consumerism-waste-products-generated-ai_116953-3292.jpg&tbnid=XjYO-YVpMqPmBM&vet=12ahUKEwjcgLHKgamBAxXdnCcCHbRaArcQMygQegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fgarbage-sorting-ecological-problems-concept-colorful-trash-bin-consumerism-waste-products-generated-ai_43049519.htm&docid=8RdX1apBTCZBpM&w=626&h=419&q=dustbin%20ai&ved=2ahUKEwjcgLHKgamBAxXdnCcCHbRaArcQMygQegQIARBy",
       "deliveryFee": 0.039448871531492236,
       "minDeliveryTime": 10,
       "maxDeliveryTime": 44,
-      "rating": 1.5095123177204128,
+      "rating": 1.5,
       "address": "983 Lewis Rapids",
       "lat": 3.8173028,
       "lng": 11.5589111,
@@ -34,18 +34,18 @@
     "status": "NEW",
     "createdAt": "2022-04-16T18:53:32.261Z",
     "updatedAt": "2022-04-16T18:53:32.261Z",
-    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "orderDustbinId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
     "Dustbin": {
       "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
-      "name": "Jacobs - DuBuque",
+      "name": "AWAI",
       "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
       "deliveryFee": 0.039448871531492236,
       "minDeliveryTime": 10,
       "maxDeliveryTime": 44,
-      "rating": 1.5095123177204128,
+      "rating": 1.5,
       "address": "983 Lewis Rapids",
-      "lat": 46.99190699528364,
-      "lng": 28.66937969418778,
+      "lat": 3.868,
+      "lng": 11.525,
       "createdAt": "2022-04-16T12:03:33.225Z",
       "updatedAt": "2022-04-16T12:05:12.826Z"
     },
@@ -53,8 +53,8 @@
       "id": "2",
       "name": "Lukas",
       "address": "Lithuania 1",
-      "lat": 46.86110499528364,
-      "lng": 28.54497769418778
+      "lat": 3.848,
+      "lng": 11.5027
     }
   },
   {
@@ -63,21 +63,21 @@
     "status": "NEW",
     "createdAt": "2022-04-16T18:56:49.713Z",
     "updatedAt": "2022-04-16T18:56:49.713Z",
-    "orderRestaurantId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "orderDustbinId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
     "_version": 1,
     "_lastChangedAt": 1650135409734,
     "_deleted": null,
     "Dustbin": {
       "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
-      "name": "Jacobs",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg",
+      "name": "mimboman",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fgarbage-sorting-ecological-problems-concept-colorful-trash-bin-consumerism-waste-products-generated-ai_116953-3292.jpg&tbnid=XjYO-YVpMqPmBM&vet=12ahUKEwjcgLHKgamBAxXdnCcCHbRaArcQMygQegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fgarbage-sorting-ecological-problems-concept-colorful-trash-bin-consumerism-waste-products-generated-ai_43049519.htm&docid=8RdX1apBTCZBpM&w=626&h=419&q=dustbin%20ai&ved=2ahUKEwjcgLHKgamBAxXdnCcCHbRaArcQMygQegQIARBy",
       "deliveryFee": 0.039448871531492236,
       "minDeliveryTime": 10,
       "maxDeliveryTime": 44,
       "rating": 1.5095123177204128,
       "address": "983 Lewis Rapids",
-      "lat": 46.47190999528364,
-      "lng": 28.74937369418778,
+      "lat": 4.848,
+      "lng": 10.5025,
       "createdAt": "2022-04-16T12:03:33.225Z",
       "updatedAt": "2022-04-16T12:05:12.826Z"
     },
@@ -85,8 +85,8 @@
       "id": "3",
       "name": "Alex",
       "address": "Happy land",
-      "lat": 46.86133499528364,
-      "lng": 28.54421769418778
+      "lat": 3.8428,
+      "lng": 11.5925
     }
   }
 ]
